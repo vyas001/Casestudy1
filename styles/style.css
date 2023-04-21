@@ -1,0 +1,59 @@
+nav{
+    float:right;
+    margin-top: 30px;
+    margin-right: 50px;
+
+}
+nav a{
+    text-decoration: none;
+    color:turquoise;
+    border: 1px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px;
+    margin-right: 10px;
+}
+nav a:hover{
+    background-color:blueviolet;
+    color: black;
+}
+
+header{
+    background-color:grey;
+    height: 120px;
+    }
+div{
+    border: 3px solid beige;
+    background-color: bisque;
+
+}    
+div h3{
+    text-align: center;
+    color:black;
+}
+.a1{
+    float: right;
+    border: 3px tomato solid;
+    background-color:azure;
+}
+.a1 p{
+    color:rgb(15, 187, 58);
+    padding: 20px;
+}
+.a1 h4{
+    text-align: center;
+    color:rgb(26, 138, 50);
+}
+.a2{
+    border: 5px teal solid;
+    background-color: turquoise;
+    float: left;
+
+}
+.a2 h6{
+    font-size: large;
+    text-align:center;
+
+}
+.a2 ul{
+    padding: 0px,20px;
+}
